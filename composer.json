@@ -1,5 +1,5 @@
 {
-    "name": "dms/better-pr-plugin",
+    "name": "dms/improved-pr-integration",
     "type": "sloth-plugin",
     "description": "Sloth plugin to send better/more information about PRs in your repo to Slack",
     "minimum-stability": "dev",
