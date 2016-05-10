@@ -1,0 +1,21 @@
+{
+    "name": "dms/better-pr-plugin",
+    "type": "sloth-plugin",
+    "description": "Sloth plugin to send better/more information about PRs in your repo to Slack",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafael Dohms",
+            "email": "rafael@doh.ms"
+        }
+    ],
+    "require-dev": {
+        "sloth/sloth": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "DMS\\Sloth\\Plugin\\Github\\": ["src"]
+        }
+    }
+}
