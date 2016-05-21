@@ -1,7 +1,7 @@
 {
-    "name": "dms/improved-pr-integration",
+    "name": "dms/sloth-github-plugin",
     "type": "sloth-plugin",
-    "description": "Sloth plugin to send better/more information about PRs in your repo to Slack",
+    "description": "Sloth plugin to better integrate Github and Slack with more information in messages.",
     "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
